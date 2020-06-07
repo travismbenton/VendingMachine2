@@ -1,0 +1,5 @@
+Sandwich::1::3
+Chips::.50::3
+Cookies::1.25::4
+Candy Bar::.75::3
+Soda::.65::4
